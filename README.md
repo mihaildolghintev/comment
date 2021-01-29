@@ -1,5 +1,7 @@
 # Comment App
 
+reitit + integrant example
+
 Repository of the "Build REST API with Clojure - [Reitit](https://github.com/metosin/reitit),
 [Integrant](https://github.com/metosin/reitit),
 and [Hugsql](https://github.com/layerware/hugsql)." series.
